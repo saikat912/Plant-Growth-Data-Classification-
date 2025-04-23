@@ -1,7 +1,7 @@
 # Plant-Growth-Data-Classification-
 
 <div align="center">
-  <img src="image.png" alt="Plant Growth Data Classification" width="400"/>
+  <img src="https://github.com/saikat912/Plant-Growth-Data-Classification-/blob/d576daee2d67c4f38e9cb0865a904f38f750a36f/images.jpeg" alt="Plant Growth Data Classification" width="400"/>
   <h1>🌱 Plant Growth Data Classification 🌾</h1>
   <p>Recommending optimal crop types based on soil conditions using machine learning.</p>
 </div>
